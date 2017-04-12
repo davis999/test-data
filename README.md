@@ -2,7 +2,7 @@
 
 ### 1. change root url
 
-open `UrlUtils.java`, edit field `ROOTURL`, set it to api-gateway url.
+Open `UrlUtils.java` in `src/main/groovy/io/reactivesw/data/util` directory, edit field `ROOTURL`, set it to api-gateway url.
 
 ### 2. compile project
 
